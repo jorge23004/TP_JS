@@ -24,12 +24,3 @@ categorías, Estudiante, Trainee, Junior.
 
 <br>
 
-![Final_js_front_2021](https://github.com/Marl8/TP-FrontEnd-Codo-a-Codo-4.0/assets/116129705/a76aaf43-bbca-4812-8de2-c4a8c65e91bc)
-
-<br>
-<hr>
-<h3 align="center"> :star: Resolución final del TP :star:
-    
-[Aqui](https://marl8.github.io/TP-FrontEnd-Codo-a-Codo-4.0/)</h3>
-
-  
